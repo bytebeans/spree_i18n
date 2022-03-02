@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem "rails-controller-testing"
-gem 'spree', github: 'spree/spree', branch: 'main'
+gem 'spree', github: 'bytebeans/spree', branch: 'bytebeans'
 
 gemspec
